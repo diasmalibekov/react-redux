@@ -1,0 +1,6 @@
+https://redux-ru.js.org/
+
+https://www.youtube.com/watch?v=G3GGXIhggGs 
+38min
+
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/related?hl=ru
